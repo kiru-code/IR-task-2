@@ -1,0 +1,5 @@
+Model,Accuracy,Precision (Macro),Recall (Macro),F1-Score (Macro),Precision (Weighted),Recall (Weighted),F1-Score (Weighted),Training Time (s),Test Latency (ms/sample),TN,FP,FN,TP
+Support Vector Machine (Linear),0.872,0.872,0.872,0.872,0.872,0.872,0.872,2.5376,0.119,873,127,129,871
+Multinomial Naive Bayes,0.864,0.864,0.864,0.864,0.864,0.864,0.864,2.223,0.092,859,141,131,869
+K-Nearest Neighbours,0.77,0.7706,0.77,0.7699,0.7706,0.77,0.7699,2.4684,0.302,746,254,206,794
+Decision Tree,0.699,0.7006,0.699,0.6984,0.7006,0.699,0.6984,4.1028,0.107,655,345,257,743
